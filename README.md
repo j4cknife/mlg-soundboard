@@ -1,4 +1,4 @@
-# MLG Soundboard using Web Audio API
+# NBA JAM Soundboard using Web Audio API
 
 ## Description
 This features a simple soundboard using Web Sound API and distortion effects. 
@@ -32,9 +32,5 @@ Other browsers don't seem to work because they haven't implemented the Web Audio
 * Thanks to [daylostar](https://github.com/daylostar) for letting me know about the shut down of kingly.sx
 * Thanks to [Hydrothermal](https://github.com/Hydrothermal) for optimizing the code a bit
 * Thanks to numerous people from [/r/montageparodies](http://www.reddit.com/r/montageparodies) for idea for new sounds
-
-## Requests / Questions
-
-If you have any questions or requests open an issue, message me on reddit ([/u/tst__](http://www.reddit.com/message/compose/?to=tst__)) or shout really really loud out your window.
 
 

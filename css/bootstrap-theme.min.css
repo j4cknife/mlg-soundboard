@@ -19,3 +19,8 @@
 .hotkey-badge {
 	float:left;
 }
+
+body {
+	background-color:#000;
+	color: #FFF;
+}

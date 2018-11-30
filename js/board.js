@@ -91,7 +91,32 @@ var soundfiles = ["mp3/2big2fast.mp3",
                            "mp3/wild_shot.mp3",
                            "mp3/yonder.mp3"];
 
-var sourcefiles = ["."];
+var sourcefiles = ["https://www.youtube.com/watch?v=JSnR80kY0m0",
+                            "https://www.youtube.com/watch?v=IpyingiCwV8",
+                            "https://www.youtube.com/watch?v=u9ymUX1fJLw",
+                            "https://www.dropbox.com/s/3nh8u7nrql96k48/HITMARKER.wav",
+                            "https://www.youtube.com/watch?v=gl33V3fh7k0",
+                            "https://www.youtube.com/watch?v=M6PbdJiAK84",
+                            "https://www.youtube.com/watch?v=auAvDJlMOQ8",
+                            "https://www.youtube.com/watch?v=b_yMiLwxae0",
+                            "https://www.youtube.com/watch?v=hU7EHKFNMQg",
+                            "https://www.youtube.com/watch?v=WSeNSzJ2-Jw",
+                            "https://www.youtube.com/watch?v=KlujizeNNQM",
+                            "https://www.youtube.com/watch?v=pD_imYhNoQ4",
+                            "https://www.youtube.com/watch?v=s_x_4UElTDI",
+                            "https://www.youtube.com/watch?v=thhaf-bKWyg",
+                            "https://soundcloud.com/gay-bagel/sad-airhorn",
+                            "https://www.youtube.com/watch?v=cLI8wtbCIkM",
+                            "https://www.youtube.com/watch?v=9aGGIwOXze4",
+                            "https://www.youtube.com/watch?v=Ks5bzvT-D6I",
+                            "https://www.youtube.com/watch?v=wsO-Td0hqXo",
+                            "https://www.youtube.com/watch?v=Se8Yq56tSLc",
+                            "https://www.youtube.com/watch?v=1mz6y526yCk",
+                            "https://www.youtube.com/watch?v=8YHqals6TBQ&t=64",
+                            "https://www.youtube.com/watch?v=FzjtPtOH-Hg",
+                            "https://www.youtube.com/watch?v=Y8bGl331RsQ",
+                            "https://www.youtube.com/watch?v=bKmBEdY35mA",
+                            "https://www.youtube.com/watch?v=rbBX6aEzEz8"];
 
 
 

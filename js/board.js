@@ -91,7 +91,7 @@ var soundfiles = ["mp3/2big2fast.mp3",
                            "mp3/wild_shot.mp3",
                            "mp3/yonder.mp3"];
 
-var sourcefiles = new Array(".");
+var sourcefiles = ["."];
 
 
 

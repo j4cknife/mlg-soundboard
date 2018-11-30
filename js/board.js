@@ -246,7 +246,7 @@ function displayPlayButtons () {
         btn.innerHTML = "<strong>" + soundfiles[i].slice(0,-4) + "</strong>";
         btn.id = i;
         btn.onclick = function() { playComposition(bList[this.id]); };
-        btn.classList.add("btn", buttonColor);
+        btn.classList.add("btn", buttonColor btn-lg);
 //      btn.classList.add("btn", buttonColor, "btn-block", "spaced-button");
         
         var wrapper = createButtonWrapper();

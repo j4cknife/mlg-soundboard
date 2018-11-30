@@ -16,7 +16,7 @@ var activeBuffers = [];
 
 // mp3 files and sources
 var soundfiles = ["mp3/2big2fast.mp3",
-                           "mp3/mp3/2ez.mp3",
+                           "mp3/2ez.mp3",
                            "mp3/3saCrowd.mp3",
                            "mp3/airmail.mp3",
                            "mp3/bananapeel.mp3",
